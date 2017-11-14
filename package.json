@@ -1,10 +1,10 @@
 {
-  "name": "todo-app-express",
+  "name": "hod-webpage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node .",
     "dev": "nodemon .",
     "phoenix": "rm -Rv node_modules && echo -------------------------------------------------------- && echo All node modules removed, reinstalling node modules && echo -------------------------------------------------------- && npm install && nodemon index"
   },
